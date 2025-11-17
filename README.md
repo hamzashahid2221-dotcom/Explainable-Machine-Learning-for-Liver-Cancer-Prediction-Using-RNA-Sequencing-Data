@@ -85,7 +85,7 @@ The **top 15 genes** contributing most to cancer prediction, based on **XGBoost 
 > These genes are the most influential features in the XGBoost model for predicting cancer. Highlighting them improves **explainability** and gives insight into potential **biological relevance** of gene expression patterns.
 
 #### Suggested Visualization
-![Feature Importance](Results/FeatureImportance.png)
+FeatureImportance.png
 This provides a clear, visual summary of the genes most critical for model predictions.
 ### 🧠 Key Takeaways
 
